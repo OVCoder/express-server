@@ -1,0 +1,1 @@
+Express server that serves information about top spots in San Diego as a response on "/data" GET request.
